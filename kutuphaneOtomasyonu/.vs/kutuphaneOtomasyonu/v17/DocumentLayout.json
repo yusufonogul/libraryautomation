@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|c:\\users\\qartn\\desktop\\proje\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|c:\\users\\qartn\\desktop\\proje\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|c:\\users\\qartn\\desktop\\proje\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\kitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\kitapekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneotomasyonu\\emanetkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\emanetkitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneotomasyonu\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneotomasyonu\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\kitaplistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneotomasyonu\\uyelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FC8A851-DDEF-4010-9792-49A332E399B0}|kutuphaneOtomasyonu\\kutuphaneOtomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\uyelistele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\Giris.cs",
+              "RelativeToolTip": "kutuphaneOtomasyonu\\Giris.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:10:19.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\Giris.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\Giris.cs",
+              "ToolTip": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphaneOtomasyonu\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:10:17.001Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "kitapekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitapekle.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\kitapekle.cs",
+              "ToolTip": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitapekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphaneOtomasyonu\\kitapekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T17:09:55.957Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "uyelistele.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\uyelistele.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\uyelistele.cs",
+              "ToolTip": "C:\\Users\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\uyelistele.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\uyelistele.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T17:09:56.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "kitaplistele.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitaplistele.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\kitaplistele.cs",
+              "ToolTip": "C:\\Users\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitaplistele.cs [Design]*",
+              "RelativeToolTip": "..\\..\\..\\..\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitaplistele.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T17:09:56.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "emanetkitap.cs",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\emanetkitap.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\emanetkitap.cs",
+              "ToolTip": "C:\\Users\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\emanetkitap.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\emanetkitap.cs*",
+              "ViewState": "AQIAAK4AAAAAAAAAAAAmwKwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T17:09:56.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "kitaplistele.cs",
+              "DocumentMoniker": "C:\\Users\\qartN\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitaplistele.cs",
+              "RelativeDocumentMoniker": "kutuphaneOtomasyonu\\kitaplistele.cs",
+              "ToolTip": "C:\\Users\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitaplistele.cs*",
+              "RelativeToolTip": "..\\..\\..\\..\\Muhanmmed\\Desktop\\PROJE\\kutuphaneOtomasyonu\\kutuphaneOtomasyonu\\kitaplistele.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-06-20T17:09:56.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
